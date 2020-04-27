@@ -4,9 +4,9 @@ import Contact from './components/Contact'
 
 function ContactsScreen() {
     const contacts = [
-        {name: "Reppy Purpse", number: "024-549-6252"},
-        {name: "Christ Matic", number: "054-474-4464"},
-        {name: "Ambi Rep", number: "024-569-6997"},
+        {name: "Reppy Purpse"},
+        {name: "Christ Matic"},
+        {name: "Ambi Rep"}
         // {name: "Was Born", number: "054-750-0366"},
         // {name: "Atom Skobi", number: "054-444-4444"},
         // {name: "Cash Money", number: "054-798-5590"},
